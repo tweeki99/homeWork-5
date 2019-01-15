@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hw5\hw5\bin\Debug\hw5.exe.config
+C:\Users\Shipa\source\repos\hw5\hw5\bin\Debug\hw5.exe
+C:\Users\Shipa\source\repos\hw5\hw5\bin\Debug\hw5.pdb
+C:\Users\Shipa\source\repos\hw5\hw5\obj\Debug\hw5.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hw5\hw5\obj\Debug\hw5.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hw5\hw5\obj\Debug\hw5.exe
+C:\Users\Shipa\source\repos\hw5\hw5\obj\Debug\hw5.pdb
